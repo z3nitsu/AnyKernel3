@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Predator Kernel by sohamsen@xda
+kernel.string=Hentai Kernel by z3nitsu
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
